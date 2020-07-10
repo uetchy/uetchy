@@ -1,4 +1,4 @@
-<img src="./cover.gif" />
+<img src="https://raw.githubusercontent.com/uetchy/uetchy/master/cover.gif" />
 
 <!--
 **uetchy/uetchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
