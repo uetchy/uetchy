@@ -1,4 +1,4 @@
-<h1 align="center">👋</h1>
+<p align="center" size="20">👋</h1>
 
 <!--
 **uetchy/uetchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
